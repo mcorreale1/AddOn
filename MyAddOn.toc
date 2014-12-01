@@ -1,0 +1,5 @@
+## Interface: 60000
+## Title: My AddOn
+## Notes: spriest notifier test
+SPriest.lua
+MyAddOn.xml
